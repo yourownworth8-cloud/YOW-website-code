@@ -157,8 +157,3 @@ This is a free, one-page React + Tailwind website for the YOW clothing brand. It
 
 ---
 
-// ✅ NOTES
-// 1. package.json is at root — required for both local dev and Vercel deploy
-// 2. Use `npm install` in project root to install dependencies
-// 3. Run `npm run dev` to start local development server
-// 4. For deployment on Vercel: Build Command -> `npm run build`, Output Directory -> `dist
